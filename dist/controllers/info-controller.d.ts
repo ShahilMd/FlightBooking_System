@@ -1,0 +1,2 @@
+export declare const infoController: (req: import("express").Request, res: import("express").Response, next: import("express").NextFunction) => Promise<any>;
+//# sourceMappingURL=info-controller.d.ts.map
